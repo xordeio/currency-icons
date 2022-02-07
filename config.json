@@ -1,0 +1,16 @@
+{
+	"sizes": [{
+		"size": 32,
+		"label": "32"
+	},{
+		"size": 64,
+		"label": "32@2x"
+	},{
+		"size": 128,
+		"label": "128"
+	}],
+	"types": [
+		"black", "color", "icon", "white"
+	],
+	"destDir": "./dist"
+}
